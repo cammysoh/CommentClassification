@@ -10,7 +10,7 @@ Data is available from *[Kaggle Toxic Comment Classification Challenge](https://
 - blahh
 
 ## Presentation and Report 
-Project presentation slide deck can be downloaded [here](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Presentation.pptx?raw=true "AML Project Presentation").
+Project presentation slide deck can be viewed [here](https://www.slideshare.net/CammySoh/toxic-comment-classification-using-neural-network-and-machine-learning "AML Project Presentation").
 
 A detailed project report can be viewed [here](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Report.pdf "AML Project Report").
 
