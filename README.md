@@ -12,7 +12,7 @@ Data is available from *[Kaggle Toxic Comment Classification Challenge](https://
 ## Presentation and Report 
 Project presentation slide deck can be downloaded [here](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Presentation.pptx?raw=true "AML Project Presentation").
 
-A detailed project report can be downloaded [here](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Report.docx?raw=true "AML Project Report").
+A detailed project report can be viewed [here](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Report.pdf "AML Project Report").
 
 ## Contributors
 (add link to linkedIn account) 
