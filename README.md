@@ -15,7 +15,5 @@ Project presentation slide deck can be downloaded [here](https://github.com/camm
 A detailed project report can be downloaded [here](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Report.docx?raw=true "AML Project Report").
 
 ## Contributors
-Ayushi Jaiswal (add link to linked account)  
-Milouni Desai  
-Soh Hui Shan  
-Teo Yaling
+(add link to linkedIn account) 
+Ayushi Jaiswal, Milouni Desai, Teo Yaling, Soh Hui Shan
