@@ -64,4 +64,4 @@ Check out our project [presentation slides](https://www.slideshare.net/CammySoh/
 This project is done during my **Applied Machine Learning** course in [SMU MITB](https://sis.smu.edu.sg/master-it-business/analytics-track/curriculum) with (add link to linkedIn account) Ayushi Jaiswal, Milouni Desai and Teo Yaling from Aug to Dec 2019. 
 
 
-**If you like this project, do check out my other projects here(add link to github) or connect with me on LinkedIn (add link). Cheers!**
+**If you like this project, do check out my other projects here(add link to github) or connect with me on [LinkedIn](https://linkedin.com/in/cammy-soh-hui-shan). Cheers!**
