@@ -2,7 +2,7 @@
 *Author: Soh Hui Shan Cammy, cammysoh@gmail.com (link to linkedIn or github resume)*
 
 ## Objective
->The objective of our project is to build a multi-label classification model that can accurately detect different types of toxicity for each comment. There are 6 classes of toxicity - Toxic, Severe Toxic, Obscene, Threat, Insult and Identity Hate.
+The objective of our project is to build a multi-label classification model that can accurately detect different types of toxicity for each comment. There are 6 classes of toxicity - Toxic, Severe Toxic, Obscene, Threat, Insult and Identity Hate.
 
 We would like to observe if complex approaches of word embeddings coupled with deep learning pose any significant improvement in accuracy over simpler approaches. 
 
@@ -61,6 +61,7 @@ For example, “Threat” label has words like kill, die, hang, death which occu
 Check out our project [presentation slides](https://www.slideshare.net/CammySoh/toxic-comment-classification-using-neural-network-and-machine-learning "AML Project Presentation") and [full report](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Report.pdf "AML Project Report") for more details. 
 
 ## Contributors
-This project is done during my “Applied Machine Learning” course in [SMU MITB](https://sis.smu.edu.sg/master-it-business/analytics-track/curriculum) with (add link to linkedIn account) Ayushi Jaiswal, Milouni Desai and Teo Yaling from Aug to Dec 2019. 
+This project is done during my **Applied Machine Learning** course in [SMU MITB](https://sis.smu.edu.sg/master-it-business/analytics-track/curriculum) with (add link to linkedIn account) Ayushi Jaiswal, Milouni Desai and Teo Yaling from Aug to Dec 2019. 
 
-Check out my other projects (add link to github) or connect with me on LinkedIn (add link) :) 
+
+**If you like this project, do check out my other projects here(add link to github) or connect with me on LinkedIn (add link). Cheers!**
