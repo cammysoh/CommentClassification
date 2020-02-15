@@ -18,6 +18,10 @@ Our initial approach is to classify the comments into 6 labels.
 
 We built three models and each of them has a high average accuracy of 96%. However, the micro-recall and micro-F1-score is very low for embeddings with logistic regression and neural network model.
 
+<img src="ReadMe_Images/initial_approach_models.png" width="450">
+
+From the confusion matrix, we observed that the false negatives are very high which suggest that the models are predicting toxic comments as clean. 
+
 
 
 ## Presentation and Report 
