@@ -1,4 +1,4 @@
-# Toxic Comment Classification Using Machine Learning and Neural Network
+# Toxic Comment Classification Using Machine Learning and Neural Networks
 *Author: Soh Hui Shan Cammy, cammysoh@gmail.com*
 
 ## Objective
