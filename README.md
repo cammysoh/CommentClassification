@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ReadMe_Images/banner.png">
+</p>
+
 # Toxic Comment Classification Using Machine Learning and Neural Networks
 *Author: Soh Hui Shan Cammy, cammysoh@gmail.com*
 
