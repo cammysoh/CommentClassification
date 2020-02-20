@@ -1,5 +1,5 @@
 # Toxic Comment Classification Using Machine Learning and Neural Networks
-*Author: Soh Hui Shan Cammy, [cammysoh@gmail.com](cammysoh@gmail.com)*
+*Author: Soh Hui Shan Cammy, [cammysoh@gmail.com](mailto:cammysoh@gmail.com)*
 <p align="center">
   <img src="ReadMe_Images/banner.png" width="600">
 </p>
