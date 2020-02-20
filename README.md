@@ -1,5 +1,5 @@
 # Toxic Comment Classification Using Machine Learning and Neural Networks
-*Author: Soh Hui Shan Cammy, cammysoh@gmail.com*
+*Author: Soh Hui Shan Cammy, [cammysoh@gmail.com](cammysoh@gmail.com)*
 <p align="center">
   <img src="ReadMe_Images/banner.png" width="600">
 </p>
@@ -61,7 +61,7 @@ For example, “Threat” label has words like kill, die, hang, death which occu
 </p>
 
 ## Presentation and Report 
-Check out our project [presentation slides](https://www.slideshare.net/CammySoh/toxic-comment-classification-using-neural-network-and-machine-learning "AML Project Presentation") and [full report](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Report.pdf "AML Project Report") for more details. 
+Check out our project [presentation slides](https://www.slideshare.net/CammySoh/toxic-comment-classification-using-neural-network-and-machine-learning "AML Project Presentation") and [full report](https://github.com/cammysoh/Toxic-Comment-Classifier/blob/master/Applied%20Machine%20Learning_Project%20Report.pdf "AML Project Report") for more details. [View code on Github](https://github.com/cammysoh/Toxic-Comment-Classification-in-Python).
 
 ## Contributors
 This project is done during my **Applied Machine Learning** course in [SMU MITB](https://sis.smu.edu.sg/master-it-business/analytics-track/curriculum) with [Ayushi Jaiswal](https://www.linkedin.com/in/ayushijaiswal/), [Milouni Desai](https://www.linkedin.com/in/milouni-desai/) and [Teo Yaling](https://www.linkedin.com/in/yalingt/) from Aug to Dec 2019. 
