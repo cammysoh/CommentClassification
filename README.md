@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="ReadMe_Images/banner.png">
-</p>
-
 # Toxic Comment Classification Using Machine Learning and Neural Networks
 *Author: Soh Hui Shan Cammy, cammysoh@gmail.com*
+<p align="center">
+  <img src="ReadMe_Images/banner.png" width="600">
+</p>
 
 ## Objective
 The objective of our project is to build a multi-label classification model that can accurately detect different types of toxicity for each comment. There are 6 classes of toxicity - Toxic, Severe Toxic, Obscene, Threat, Insult and Identity Hate.
